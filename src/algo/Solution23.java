@@ -9,6 +9,6 @@ package algo;
  */
 public class Solution23 {
     public ListNode FindeKthToTail(ListNode head, int k){
-
+        return null;
     }
 }

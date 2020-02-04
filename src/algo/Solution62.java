@@ -7,8 +7,9 @@ import java.util.ArrayList;
  *  思路：滑动窗口，双指针指向首尾，根据等差数列求和公式求解
  */
 
-mport java.util.ArrayList;
-public class Solution {
+import java.util.ArrayList;
+
+public class Solution62 {
     public ArrayList<ArrayList<Integer> > FindContinuousSequence(int sum) {
         //存放结果
         ArrayList<ArrayList<Integer> > result = new ArrayList<>();

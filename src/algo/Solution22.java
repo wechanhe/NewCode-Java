@@ -20,7 +20,7 @@ public class Solution22 {
             if(num % 2 == 1)
                 nums[i++] = num;
             else
-                num[j++] = num;
+                nums[j++] = num;
         }
     }
 }

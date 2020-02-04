@@ -1,5 +1,10 @@
 package algo;
 
+import java.util.AbstractMap;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
 /**
  *   n 个骰子的点数
  *   解答：动态规划
